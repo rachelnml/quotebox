@@ -3,20 +3,19 @@
     "speaker": "Virginia Woolf"
   },
   {
-    "quote": "work smart, not hard",
-    "speaker": "jackson Nkhata"
+    "quote": "Work smart, not hard",
+    "speaker": "Jackson Nkhata"
   },
-
-  {
+  {`
     "quote": "Sometimes life is going to hit you in the head with a brick. Don't lose faith",
     "speaker": "Steve Jobs"
   },
   {
-    "quote": "Even Fiction Becomes Real When You Start Believing It",
+    "quote": "Even fiction becomes real when you start believing it.",
     "speaker": "Palash Bauri"
   },
   {
-    "quote": "The present is theirs; the future, for which I really   worked, is mine.",
+    "quote": "The present is theirs; the future, for which I really worked, is mine.",
     "speaker": "Nikola Tesla"
   },
   {
@@ -24,14 +23,12 @@
     "speaker": "Bill Gates"
   },
   {
-    "quote": "Don’t compare yourself with anyone in this world…if you do so, you are insulting yourself.",
+    "quote": "Don’t compare yourself with anyone in this world. If you do so, you are insulting yourself.",
     "speaker": "Bill Gates"
   },
-
   {
-    "quote": "Life id like a double sided coin. It bring both bad and good with it how you handle and live it is up to you",
+    "quote": "Life is like a double-sided coin. It brings both bad and good with it; how you handle and live it is up to you.",
     "speaker": "Desire Lumene"
-
   },
   {
     "quote": "Don't believe anything you read on the net. Except this. Well, including this, I suppose.",
@@ -46,12 +43,12 @@
     "speaker": "Nelson Mandela"
   },
   {
-    "quote": "We need fantasy to survive because reality is too difficult",
+    "quote": "We need fantasy to survive because reality is too difficult.",
     "speaker": "Lady GaGa"
   },
   {
     "quote": "And every shooting star is proof. Falling can be beautiful when you give it all you've got.",
-    "speaker": "Alicia N Green"
+    "speaker": "Alicia N. Green"
   },
   {
     "quote": "However difficult life may seem, there is always something you can do and succeed at.",
@@ -70,7 +67,7 @@
     "speaker": "Grace Hopper"
   },
   {
-    "quote": "You get what you give",
+    "quote": "You get what you give.",
     "speaker": "Jennifer Lopez"
   },
   {
@@ -79,11 +76,7 @@
   },
   {
     "quote": "People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.",
-    "speaker": "Pedro Domingos (Author of The Master Algorithm)"
-  },
-  {
-    "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
-    "speaker": "Maya Angelou"
+    "speaker": "Pedro Domingos(Author of The Master Algorithm)"
   },
   {
     "quote": "Pursue the things you love doing and then do them so well that people can't take their eyes off of you.",
@@ -134,7 +127,7 @@
     "speaker": "Brian Kernighan"
   },
   {
-    "quote": "Never Stop Being You. ✌",
+    "quote": "Never stop being you. ✌",
     "speaker": "Anonymous"
   },
   {
@@ -185,7 +178,6 @@
     "quote": "Only I can change my life. No one can do it for me.",
     "speaker": "Carol Burnett"
   },
-
   {
     "quote": "The world is your oyster.",
     "speaker": "Shakespeare"
@@ -207,7 +199,7 @@
     "speaker": "Michael Crichton"
   },
   {
-    "quote": "Winning and losing isn't everything. Sometimes, the journey is just as important as the outcome..",
+    "quote": "Winning and losing isn't everything. Sometimes, the journey is just as important as the outcome.",
     "speaker": "Alex Morgan"
   },
   {
@@ -220,7 +212,7 @@
   },
   {
     "quote": "Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
-    "speaker": "Chanakya, Indian philosopher, economist, jurist and royal advisor."
+    "speaker": "Chanakya (Indian philosopher, economist, jurist and royal advisor)"
   },
   {
     "quote": "Lightning makes no sound until it strikes.",
@@ -247,12 +239,10 @@
     "speaker": "Mahatma Gandhi"
   },
   {
-
     "quote": "Be yourself; everyone else is already taken.",
     "speaker": "Oscar Wilde"
   },
   {
-
     "quote": "The greatest victory is that which requires no battle.",
     "speaker": "Sun Tzu"
   },
@@ -261,7 +251,7 @@
     "speaker": "Victor hugo"
   },
   {
-    "quote": "Success is not final, failure is not fatal : it is the courage to continue that counts.",
+    "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
     "speaker": "Winston Churchill"
   },
   {
@@ -281,14 +271,9 @@
     "speaker": "Alan Watts"
   },
   {
-
     "quote": "He who is not courageous enough to take risks will accomplish nothing in life.",
     "speaker": "Muhammad Ali"
-
-
-
   },
-
   {
     "quote": "Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime",
     "speaker": "David Leinweber"
@@ -298,34 +283,28 @@
     "speaker": "Mahatma Gandhi"
   },
   {
-
     "quote:": "They laugh at me because I'm different. I laugh at them because they are all the same.",
     "speaker": "Kurt Cobain"
   },
   {
     "quote": "Keep your friends close, your enemies even closer.",
     "speaker": "Sun Tzu"
-
   },
   {
     "quote": "The reality is: sometimes you lose. And you’re never too good to lose. You’re never too big to lose. You’re never too smart to lose. It happens.",
     "speaker": "Beyoncé Knowles"
-
   },
   {
     "quote": "Wherever you go becomes a part of you somehow.",
     "speaker": "Anita Desai"
   },
   {
-    "quote": "Power Corrupts, and Absolute Power Corrupts Absolutely",
+    "quote": "Power tends to corrupt; absolute power corrupts absolutely.",
     "speaker": "Lord Acton"
-
   },
   {
     "quote": "If you think you can do a thing or think you can’t do a thing, you’re right.",
     "speaker": "Henry Ford"
-
-
   },
   {
     "quote": "I dream. Sometimes I think that's the only right thing to do.",
@@ -334,6 +313,9 @@
   {
     "quote": "An investment in knowledge pays the best interest.",
     "speaker": "Benjamin Franklin"
+  },
+  {
+    "quote": "There's zero correlation between being the best talker and having the best ideas.",
+    "speaker": "Susan Cain"
   }
-
 ]
